@@ -1,0 +1,24 @@
+PODS:
+  - InputMask (6.1.0)
+  - IQKeyboardManager (6.5.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - InputMask (= 6.1.0)
+  - IQKeyboardManager (= 6.5.0)
+  - SnapKit (= 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - InputMask
+    - IQKeyboardManager
+    - SnapKit
+
+SPEC CHECKSUMS:
+  InputMask: 71d291dc54d2deaeac6512afb6ec2304228c0bb7
+  IQKeyboardManager: 700e5155d6a292383b54e8678aec769e14fc78fc
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 869169cb6be9ae9485ff1d75b8059136e1e4e70d
+
+COCOAPODS: 1.8.4
